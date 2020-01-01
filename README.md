@@ -1,2 +1,4 @@
 # Local_Flood_Navigation
-Hieu, where did you put the ESP and the Neo Pixel?
+Hieu, it has been a while. Happy New Year. I hope you are enjoying the holidays. I am having a problem with my ESP32 and the ultrasonic sensor. I will send you pictures and the code file.
+Thanks again.
+-Alex
